@@ -1,6 +1,6 @@
 
-compile = "make -s"
-run = "./main"
+compile = "cd $(pwd)/Caesar_Cipher/ && make -s"
+run = "cd $(pwd)/Caesar_Cipher && ./main"
 entrypoint = "main.cpp"
 hidden = ["main", "**/*.o", "**/*.d", ".ccls-cache", "Makefile"]
 
