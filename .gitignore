@@ -7,7 +7,6 @@
 .ccls-cache/
 
 # Replit config file
-.repllit
 
 # Node artifact files
 node_modules/
