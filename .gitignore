@@ -7,6 +7,10 @@
 .ccls-cache/
 
 # Replit config file
+.replit
+
+# breakpoints
+.breakpoints
 
 # Node artifact files
 node_modules/

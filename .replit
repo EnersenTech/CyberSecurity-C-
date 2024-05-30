@@ -1,6 +1,6 @@
 
-compile = "cd $(pwd)/Poly_Alphabetic_Cipher/ && make -s"
-run = "cd $(pwd)/Poly_Alphabetic_Cipher && ./main"
+compile = "cd $(pwd)/Rotor_Machine_Poly_Alphabetic_Cipher/ && make -s"
+run = "cd $(pwd)/Rotor_Machine_Poly_Alphabetic_Cipher && ./main"
 entrypoint = "main.cpp"
 hidden = ["main", "**/*.o", "**/*.d", ".ccls-cache", "Makefile"]
 
